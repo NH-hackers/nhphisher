@@ -6,3 +6,4 @@ cd nhphisher
 
 bash nhphisher.sh
 
+@ phishing
